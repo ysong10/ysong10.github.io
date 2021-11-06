@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31eaf79d-25a5-4352-8373-cbbc1a8615c5" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HomePage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2016 NIPS CNNpack.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2016 NIPS CNNpack.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2016 TIP DCT feature.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2016 TIP DCT feature.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2017 AAAI Beyond RPCA.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2017 AAAI Beyond RPCA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2017 ICML Beyond Filters.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2017 ICML Beyond Filters.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2017 IJCAI Privileged.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2017 IJCAI Privileged.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2017 TIP DCT norm.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2017 TIP DCT norm.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 AAAI Adversarial Distillation.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 AAAI Adversarial Distillation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 ICASSP Feature Selector.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 ICASSP Feature Selector.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 KDD GA pruning.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 KDD GA pruning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 NIPS Versatile Filter.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 NIPS Versatile Filter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 PAMI CNNpack.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2018 PAMI CNNpack.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICASSP LR Distillation.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICASSP LR Distillation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICCV Co-Evolution Pruning.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICCV Co-Evolution Pruning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICCV DAFL.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICCV DAFL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICCVw Bianry Search.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICCVw Bianry Search.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICML LegoNet.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 ICML LegoNet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 IJCAI Attribute Recognition.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 IJCAI Attribute Recognition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 IJCAI Graph Pruning.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 IJCAI Graph Pruning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 IJCAI Instance Sparsity.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 IJCAI Instance Sparsity.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 NIPS PU Compression.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2019 NIPS PU Compression.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2020 AAAI GAN Distillation.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2020 AAAI GAN Distillation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2020 AAAI SR NAS.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2020 AAAI SR NAS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2020 AAAI dropblock.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2020 AAAI dropblock.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2020 CVPR GhostNet.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google6e027989c2c8311c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/AdderNet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/GhostNet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/HDC2020-small.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/YunheWang_circle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Yunhe_new.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/atlas200.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="9e04ca62-ef7c-4748-a147-c9119f6077ee" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20UEq6tkinosZRRmLMZthkqlgiE" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ysong10.github.io/cs.stanford.edu/jiaxuan/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ysong10.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31eaf79d-25a5-4352-8373-cbbc1a8615c5" name="Default Changelist" comment="" />
+      <created>1636090953413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636090953413</updated>
+      <workItem from="1636090954527" duration="898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1636137405779">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="744" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1966.1066/2560.0.1966.1066@0.0.1966.1066" timestamp="1636137405779" />
+  </component>
+</project>
