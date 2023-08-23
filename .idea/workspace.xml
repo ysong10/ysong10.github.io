@@ -97,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636090953413</updated>
       <workItem from="1636090954527" duration="898000" />
-      <workItem from="1692746352466" duration="6917000" />
+      <workItem from="1692746352466" duration="8487000" />
     </task>
     <servers />
   </component>
@@ -114,11 +114,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="744" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1636137405779">
-      <screen x="0" y="0" width="1966" height="1066" />
-    </state>
-    <state x="744" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1966.1066/2560.0.1966.1066@0.0.1966.1066" timestamp="1636137405779" />
   </component>
 </project>
